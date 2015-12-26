@@ -1,0 +1,8 @@
+{{ define "content" }}
+<script>
+setTimeout(function () {
+    document.location.pathname = "/downloadscreen";
+}, 1000);
+window.location.href = "resources/downloads/{{.}}";
+</script>
+{{ end }}

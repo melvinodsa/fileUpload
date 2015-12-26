@@ -1,0 +1,35 @@
+{{define "header" }}
+<!DOCTYPE html>
+<html><head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="images/favicon.ico">
+
+  <title>fileUpload</title>
+
+  <link href="resources/css/bootstrap.min.css" rel="stylesheet">
+  <link href="resources/css/cover.css" rel="stylesheet">
+  <script src="resources/js/jquery.min.js"></script>
+</head>
+
+<body cz-shortcut-listen="true">
+
+  <div class="site-wrapper">
+
+    <div class="site-wrapper-inner">
+
+      <div class="cover-container">
+
+        <div class="masthead clearfix">
+          <div class="inner">
+            <h3 class="masthead-brand">fileUpload</h3>
+          </div>
+          <nav>
+            <ul class="nav masthead-nav">
+              <li id="homeNav"><a href="/">Home</a></li>
+              <li id="downloadNav"><a href="/downloadscreen">Download</a></li>
+              <li id="uploadNav"><a href="/uploadscreen">Upload</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      {{ end }}

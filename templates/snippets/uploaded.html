@@ -1,0 +1,22 @@
+{{ define "content" }}
+<form class="form">
+  <h4 class="form-heading">You can download your files at downloads section by entering {{.ShortCode}} shortcode.</h4>
+  <select class="form-control" id="ipaddresses" onchange="showAddress(this);">
+    {{ range .IPDetailsConfig }}
+    <option value='{{ .IPAddr }}'>{{ .NWInterface }}</option>
+    {{ end }}
+  </select>
+</form>
+<h4 class="form-heading">You can also download your file by scanning the below QR code</h4>
+<img id="qr-code"></img>
+<script>
+function showAddress(element) {
+  document.getElementById('qr-code').src = element.value;
+}
+$(document).ready(new function(){
+  showAddress(document.getElementById('ipaddresses'));
+  $('#uploadNav').addClass("active");
+});
+</script>
+
+{{ end }}

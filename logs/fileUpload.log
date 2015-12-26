@@ -1,0 +1,806 @@
+2015/12/26 21:54:28 The application has started.
+2015/12/26 21:54:29 User requested home view.
+2015/12/26 21:54:29 Getting the network interface.
+2015/12/26 21:54:29 Getting the local ip address from the network interface lo
+2015/12/26 21:54:29 ip address of the network interface lo is 127.0.0.1
+2015/12/26 21:54:29 QR code generated and saved to resources/images/lo.png
+2015/12/26 21:54:29 Getting the local ip address from the network interface eth0
+2015/12/26 21:54:29 Getting the local ip address from the network interface wlan0
+2015/12/26 21:54:29 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 21:54:29 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 21:54:29 Configuration has been saved successfully to the conf file.
+2015/12/26 21:54:29 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 21:56:38 User requested upload view.
+2015/12/26 21:56:47 Configuration has been saved successfully to the conf file.
+2015/12/26 21:56:47 Shortcode has been saved successfully to the conf file.
+2015/12/26 21:56:47 Updated the shortcode in conf file to 100001
+2015/12/26 21:56:47 User requested file upload.
+2015/12/26 21:56:47 Extracting the filenames from the form.
+2015/12/26 21:56:47 IMG_20151224_204800.jpg
+2015/12/26 21:56:47 IMG_20151224_204834.jpg
+2015/12/26 21:56:47 Extracting the files from the form.
+2015/12/26 21:56:47 Successfully stored all the files into the folder ./resources/downloads/100001
+2015/12/26 21:56:47 Compressing the folder ./resources/downloads/100001
+2015/12/26 21:56:48 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100001.zip
+2015/12/26 21:56:48 QR code generated and saved to ./resources/downloads/lo_100001.png
+2015/12/26 21:56:48 QR code generated and saved to ./resources/downloads/wlan0_100001.png
+2015/12/26 21:58:32 Configuration has been saved successfully to the conf file.
+2015/12/26 21:58:32 Shortcode has been saved successfully to the conf file.
+2015/12/26 21:58:32 Updated the shortcode in conf file to 100002
+2015/12/26 21:58:32 User requested file upload.
+2015/12/26 21:58:32 Extracting the filenames from the form.
+2015/12/26 21:58:32 IMG_20151224_204800.jpg
+2015/12/26 21:58:32 IMG_20151224_204920.jpg
+2015/12/26 21:58:32 Extracting the files from the form.
+2015/12/26 21:58:32 Successfully stored all the files into the folder ./resources/downloads/100002
+2015/12/26 21:58:32 Compressing the folder ./resources/downloads/100002
+2015/12/26 21:58:33 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100002.zip
+2015/12/26 21:58:33 QR code generated and saved to ./resources/downloads/lo_100002.png
+2015/12/26 21:58:33 QR code generated and saved to ./resources/downloads/wlan0_100002.png
+2015/12/26 21:58:35 User requested home view.
+2015/12/26 21:58:35 Getting the network interface.
+2015/12/26 21:58:35 Getting the local ip address from the network interface lo
+2015/12/26 21:58:35 ip address of the network interface lo is 127.0.0.1
+2015/12/26 21:58:35 QR code generated and saved to resources/images/lo.png
+2015/12/26 21:58:35 Getting the local ip address from the network interface eth0
+2015/12/26 21:58:35 Getting the local ip address from the network interface wlan0
+2015/12/26 21:58:35 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 21:58:35 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 21:58:35 Configuration has been saved successfully to the conf file.
+2015/12/26 21:58:35 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 21:58:35 User requested home view.
+2015/12/26 21:58:35 Getting the network interface.
+2015/12/26 21:58:35 Getting the local ip address from the network interface lo
+2015/12/26 21:58:35 ip address of the network interface lo is 127.0.0.1
+2015/12/26 21:58:35 QR code generated and saved to resources/images/lo.png
+2015/12/26 21:58:35 Getting the local ip address from the network interface eth0
+2015/12/26 21:58:35 Getting the local ip address from the network interface wlan0
+2015/12/26 21:58:35 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 21:58:35 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 21:58:35 Configuration has been saved successfully to the conf file.
+2015/12/26 21:58:35 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 21:58:37 User requested home view.
+2015/12/26 21:58:37 Getting the network interface.
+2015/12/26 21:58:37 Getting the local ip address from the network interface lo
+2015/12/26 21:58:37 ip address of the network interface lo is 127.0.0.1
+2015/12/26 21:58:37 QR code generated and saved to resources/images/lo.png
+2015/12/26 21:58:37 Getting the local ip address from the network interface eth0
+2015/12/26 21:58:37 Getting the local ip address from the network interface wlan0
+2015/12/26 21:58:37 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 21:58:37 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 21:58:37 Configuration has been saved successfully to the conf file.
+2015/12/26 21:58:37 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 21:58:38 User requested home view.
+2015/12/26 21:58:38 Getting the network interface.
+2015/12/26 21:58:38 Getting the local ip address from the network interface lo
+2015/12/26 21:58:38 ip address of the network interface lo is 127.0.0.1
+2015/12/26 21:58:38 QR code generated and saved to resources/images/lo.png
+2015/12/26 21:58:38 Getting the local ip address from the network interface eth0
+2015/12/26 21:58:38 Getting the local ip address from the network interface wlan0
+2015/12/26 21:58:38 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 21:58:38 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 21:58:38 Configuration has been saved successfully to the conf file.
+2015/12/26 21:58:38 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 21:58:43 User requested home view.
+2015/12/26 21:58:43 Getting the network interface.
+2015/12/26 21:58:43 Getting the local ip address from the network interface lo
+2015/12/26 21:58:43 ip address of the network interface lo is 127.0.0.1
+2015/12/26 21:58:43 QR code generated and saved to resources/images/lo.png
+2015/12/26 21:58:43 Getting the local ip address from the network interface eth0
+2015/12/26 21:58:43 Getting the local ip address from the network interface wlan0
+2015/12/26 21:58:43 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 21:58:43 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 21:58:43 Configuration has been saved successfully to the conf file.
+2015/12/26 21:58:43 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:00:45 Configuration has been saved successfully to the conf file.
+2015/12/26 22:00:45 Shortcode has been saved successfully to the conf file.
+2015/12/26 22:00:45 Updated the shortcode in conf file to 100003
+2015/12/26 22:00:45 User requested file upload.
+2015/12/26 22:00:45 Extracting the filenames from the form.
+2015/12/26 22:00:45 IMG_20151224_204800.jpg
+2015/12/26 22:00:45 IMG_20151224_204920.jpg
+2015/12/26 22:00:45 Extracting the files from the form.
+2015/12/26 22:00:45 Successfully stored all the files into the folder ./resources/downloads/100003
+2015/12/26 22:00:45 Compressing the folder ./resources/downloads/100003
+2015/12/26 22:00:46 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100003.zip
+2015/12/26 22:00:46 QR code generated and saved to ./resources/downloads/lo_100003.png
+2015/12/26 22:00:46 QR code generated and saved to ./resources/downloads/wlan0_100003.png
+2015/12/26 22:00:47 User requested home view.
+2015/12/26 22:00:47 Getting the network interface.
+2015/12/26 22:00:47 Getting the local ip address from the network interface lo
+2015/12/26 22:00:47 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:00:47 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:00:47 Getting the local ip address from the network interface eth0
+2015/12/26 22:00:47 Getting the local ip address from the network interface wlan0
+2015/12/26 22:00:47 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:00:47 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:00:47 Configuration has been saved successfully to the conf file.
+2015/12/26 22:00:47 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:00:47 User requested home view.
+2015/12/26 22:00:47 Getting the network interface.
+2015/12/26 22:00:47 Getting the local ip address from the network interface lo
+2015/12/26 22:00:47 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:00:47 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:00:47 Getting the local ip address from the network interface eth0
+2015/12/26 22:00:47 Getting the local ip address from the network interface wlan0
+2015/12/26 22:00:47 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:00:47 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:00:47 Configuration has been saved successfully to the conf file.
+2015/12/26 22:00:47 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:00:47 User requested home view.
+2015/12/26 22:00:47 Getting the network interface.
+2015/12/26 22:00:47 Getting the local ip address from the network interface lo
+2015/12/26 22:00:47 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:00:47 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:00:47 Getting the local ip address from the network interface eth0
+2015/12/26 22:00:47 Getting the local ip address from the network interface wlan0
+2015/12/26 22:00:47 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:00:47 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:00:47 Configuration has been saved successfully to the conf file.
+2015/12/26 22:00:47 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:00 User requested download view.
+2015/12/26 22:02:01 User requested home view.
+2015/12/26 22:02:01 Getting the network interface.
+2015/12/26 22:02:01 Getting the local ip address from the network interface lo
+2015/12/26 22:02:01 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:01 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:01 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:01 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:01 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:01 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:01 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:01 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:01 User requested home view.
+2015/12/26 22:02:01 Getting the network interface.
+2015/12/26 22:02:01 Getting the local ip address from the network interface lo
+2015/12/26 22:02:01 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:01 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:01 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:01 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:01 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:01 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:01 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:01 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:01 User requested home view.
+2015/12/26 22:02:01 Getting the network interface.
+2015/12/26 22:02:01 Getting the local ip address from the network interface lo
+2015/12/26 22:02:01 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:01 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:01 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:01 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:01 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:01 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:01 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:01 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:01 User requested home view.
+2015/12/26 22:02:01 Getting the network interface.
+2015/12/26 22:02:01 Getting the local ip address from the network interface lo
+2015/12/26 22:02:01 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:01 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:01 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:01 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:01 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:01 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:01 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:01 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:02 User requested home view.
+2015/12/26 22:02:02 Getting the network interface.
+2015/12/26 22:02:02 Getting the local ip address from the network interface lo
+2015/12/26 22:02:02 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:02 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:02 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:02 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:02 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:02 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:02 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:02 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:04 User requested home view.
+2015/12/26 22:02:04 Getting the network interface.
+2015/12/26 22:02:04 Getting the local ip address from the network interface lo
+2015/12/26 22:02:04 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:04 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:04 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:04 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:04 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:04 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:04 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:04 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:04 User requested home view.
+2015/12/26 22:02:04 Getting the network interface.
+2015/12/26 22:02:04 Getting the local ip address from the network interface lo
+2015/12/26 22:02:04 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:04 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:04 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:04 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:04 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:04 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:04 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:04 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:06 User requested upload view.
+2015/12/26 22:02:07 User requested home view.
+2015/12/26 22:02:07 Getting the network interface.
+2015/12/26 22:02:07 Getting the local ip address from the network interface lo
+2015/12/26 22:02:07 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:07 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:07 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:07 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:07 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:07 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:07 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:07 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:07 User requested home view.
+2015/12/26 22:02:07 Getting the network interface.
+2015/12/26 22:02:07 Getting the local ip address from the network interface lo
+2015/12/26 22:02:07 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:07 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:07 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:07 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:07 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:07 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:07 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:07 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:07 User requested home view.
+2015/12/26 22:02:07 Getting the network interface.
+2015/12/26 22:02:07 Getting the local ip address from the network interface lo
+2015/12/26 22:02:07 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:07 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:07 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:07 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:07 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:07 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:07 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:07 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:08 User requested home view.
+2015/12/26 22:02:08 Getting the network interface.
+2015/12/26 22:02:08 Getting the local ip address from the network interface lo
+2015/12/26 22:02:08 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:08 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:08 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:08 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:08 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:08 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:08 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:08 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:08 User requested home view.
+2015/12/26 22:02:08 Getting the network interface.
+2015/12/26 22:02:08 Getting the local ip address from the network interface lo
+2015/12/26 22:02:08 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:08 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:08 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:08 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:08 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:08 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:08 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:08 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:09 User requested home view.
+2015/12/26 22:02:09 Getting the network interface.
+2015/12/26 22:02:09 Getting the local ip address from the network interface lo
+2015/12/26 22:02:09 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:09 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:09 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:09 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:09 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:09 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:09 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:09 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:09 User requested home view.
+2015/12/26 22:02:09 Getting the network interface.
+2015/12/26 22:02:09 Getting the local ip address from the network interface lo
+2015/12/26 22:02:09 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:09 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:09 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:09 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:09 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:09 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:09 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:09 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:16 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:16 Shortcode has been saved successfully to the conf file.
+2015/12/26 22:02:16 Updated the shortcode in conf file to 100004
+2015/12/26 22:02:16 User requested file upload.
+2015/12/26 22:02:16 Extracting the filenames from the form.
+2015/12/26 22:02:16 IMG_20151224_204920.jpg
+2015/12/26 22:02:16 Extracting the files from the form.
+2015/12/26 22:02:16 Successfully stored all the files into the folder ./resources/downloads/100004
+2015/12/26 22:02:16 Compressing the folder ./resources/downloads/100004
+2015/12/26 22:02:16 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100004.zip
+2015/12/26 22:02:16 QR code generated and saved to ./resources/downloads/lo_100004.png
+2015/12/26 22:02:16 QR code generated and saved to ./resources/downloads/wlan0_100004.png
+2015/12/26 22:02:16 User requested home view.
+2015/12/26 22:02:16 Getting the network interface.
+2015/12/26 22:02:16 Getting the local ip address from the network interface lo
+2015/12/26 22:02:16 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:16 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:16 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:16 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:16 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:16 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:16 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:16 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:16 User requested home view.
+2015/12/26 22:02:16 Getting the network interface.
+2015/12/26 22:02:16 Getting the local ip address from the network interface lo
+2015/12/26 22:02:16 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:16 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:16 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:16 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:16 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:16 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:16 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:16 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:16 User requested home view.
+2015/12/26 22:02:16 Getting the network interface.
+2015/12/26 22:02:16 Getting the local ip address from the network interface lo
+2015/12/26 22:02:16 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:17 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:17 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:17 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:17 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:17 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:17 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:17 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:17 User requested home view.
+2015/12/26 22:02:17 Getting the network interface.
+2015/12/26 22:02:17 Getting the local ip address from the network interface lo
+2015/12/26 22:02:17 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:17 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:17 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:17 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:17 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:17 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:17 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:17 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:17 User requested home view.
+2015/12/26 22:02:17 Getting the network interface.
+2015/12/26 22:02:17 Getting the local ip address from the network interface lo
+2015/12/26 22:02:17 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:17 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:17 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:17 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:17 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:18 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:18 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:18 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:18 User requested home view.
+2015/12/26 22:02:18 Getting the network interface.
+2015/12/26 22:02:18 Getting the local ip address from the network interface lo
+2015/12/26 22:02:18 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:18 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:18 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:18 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:18 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:18 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:18 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:18 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:02:18 User requested home view.
+2015/12/26 22:02:18 Getting the network interface.
+2015/12/26 22:02:18 Getting the local ip address from the network interface lo
+2015/12/26 22:02:18 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:02:18 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:02:18 Getting the local ip address from the network interface eth0
+2015/12/26 22:02:18 Getting the local ip address from the network interface wlan0
+2015/12/26 22:02:18 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:02:18 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:02:18 Configuration has been saved successfully to the conf file.
+2015/12/26 22:02:18 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:04:31 The application has started.
+2015/12/26 22:04:32 User requested home view.
+2015/12/26 22:04:32 Getting the network interface.
+2015/12/26 22:04:32 Getting the local ip address from the network interface lo
+2015/12/26 22:04:32 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:04:32 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:04:32 Getting the local ip address from the network interface eth0
+2015/12/26 22:04:32 Getting the local ip address from the network interface wlan0
+2015/12/26 22:04:32 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:04:32 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:04:32 Configuration has been saved successfully to the conf file.
+2015/12/26 22:04:32 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:04:34 User requested upload view.
+2015/12/26 22:04:40 Configuration has been saved successfully to the conf file.
+2015/12/26 22:04:40 Shortcode has been saved successfully to the conf file.
+2015/12/26 22:04:40 Updated the shortcode in conf file to 100001
+2015/12/26 22:04:40 User requested file upload.
+2015/12/26 22:04:40 Extracting the filenames from the form.
+2015/12/26 22:04:40 IMG_20151224_204834.jpg
+2015/12/26 22:04:40 Extracting the files from the form.
+2015/12/26 22:04:40 Successfully stored all the files into the folder ./resources/downloads/100001
+2015/12/26 22:04:40 Compressing the folder ./resources/downloads/100001
+2015/12/26 22:04:41 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100001.zip
+2015/12/26 22:04:41 QR code generated and saved to resources/downloads/lo_100001.png
+2015/12/26 22:04:41 QR code generated and saved to resources/downloads/wlan0_100001.png
+2015/12/26 22:06:42 User requested file download.
+2015/12/26 22:06:42 User requested the file with shortcode 100001.
+2015/12/26 22:06:42 Files in the directory ./resources/downloads
+2015/12/26 22:06:42 100001.zip
+2015/12/26 22:06:42 Requested file shortcode 100001 has found a match.
+2015/12/26 22:06:42 lo_100001.png
+2015/12/26 22:06:42 wlan0_100001.png
+2015/12/26 22:06:43 User requested home view.
+2015/12/26 22:06:43 Getting the network interface.
+2015/12/26 22:06:43 Getting the local ip address from the network interface lo
+2015/12/26 22:06:43 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:43 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:43 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:43 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:43 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:43 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:43 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:43 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:43 User requested home view.
+2015/12/26 22:06:43 Getting the network interface.
+2015/12/26 22:06:43 Getting the local ip address from the network interface lo
+2015/12/26 22:06:43 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:43 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:43 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:43 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:43 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:43 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:43 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:43 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:44 User requested download view.
+2015/12/26 22:06:44 User requested home view.
+2015/12/26 22:06:44 Getting the network interface.
+2015/12/26 22:06:44 Getting the local ip address from the network interface lo
+2015/12/26 22:06:44 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:44 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:44 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:44 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:44 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:44 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:44 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:44 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:45 User requested home view.
+2015/12/26 22:06:45 Getting the network interface.
+2015/12/26 22:06:45 Getting the local ip address from the network interface lo
+2015/12/26 22:06:45 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:45 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:45 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:45 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:45 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:45 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:45 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:45 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:45 User requested home view.
+2015/12/26 22:06:45 Getting the network interface.
+2015/12/26 22:06:45 Getting the local ip address from the network interface lo
+2015/12/26 22:06:45 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:45 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:45 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:45 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:45 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:45 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:45 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:45 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:45 User requested home view.
+2015/12/26 22:06:45 Getting the network interface.
+2015/12/26 22:06:45 Getting the local ip address from the network interface lo
+2015/12/26 22:06:45 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:45 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:45 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:45 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:45 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:45 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:45 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:45 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:45 User requested home view.
+2015/12/26 22:06:45 Getting the network interface.
+2015/12/26 22:06:45 Getting the local ip address from the network interface lo
+2015/12/26 22:06:45 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:45 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:45 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:45 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:45 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:45 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:45 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:45 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:46 User requested home view.
+2015/12/26 22:06:46 Getting the network interface.
+2015/12/26 22:06:46 Getting the local ip address from the network interface lo
+2015/12/26 22:06:46 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:46 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:46 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:46 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:46 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:46 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:46 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:46 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:47 User requested home view.
+2015/12/26 22:06:47 Getting the network interface.
+2015/12/26 22:06:47 Getting the local ip address from the network interface lo
+2015/12/26 22:06:47 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:47 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:47 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:47 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:47 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:47 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:47 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:47 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:06:47 User requested home view.
+2015/12/26 22:06:47 Getting the network interface.
+2015/12/26 22:06:47 Getting the local ip address from the network interface lo
+2015/12/26 22:06:47 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:06:47 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:06:47 Getting the local ip address from the network interface eth0
+2015/12/26 22:06:47 Getting the local ip address from the network interface wlan0
+2015/12/26 22:06:47 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:06:47 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:06:47 Configuration has been saved successfully to the conf file.
+2015/12/26 22:06:47 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:07:43 User requested file download.
+2015/12/26 22:07:43 User requested the file with shortcode 100001.
+2015/12/26 22:07:43 Files in the directory ./resources/downloads
+2015/12/26 22:07:43 100001.zip
+2015/12/26 22:07:43 Requested file shortcode 100001 has found a match.
+2015/12/26 22:07:43 lo_100001.png
+2015/12/26 22:07:43 wlan0_100001.png
+2015/12/26 22:07:44 User requested home view.
+2015/12/26 22:07:44 Getting the network interface.
+2015/12/26 22:07:44 Getting the local ip address from the network interface lo
+2015/12/26 22:07:44 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:07:44 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:07:44 Getting the local ip address from the network interface eth0
+2015/12/26 22:07:44 Getting the local ip address from the network interface wlan0
+2015/12/26 22:07:44 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:07:44 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:07:44 Configuration has been saved successfully to the conf file.
+2015/12/26 22:07:44 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:07:44 User requested home view.
+2015/12/26 22:07:44 Getting the network interface.
+2015/12/26 22:07:44 Getting the local ip address from the network interface lo
+2015/12/26 22:07:44 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:07:44 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:07:44 Getting the local ip address from the network interface eth0
+2015/12/26 22:07:44 Getting the local ip address from the network interface wlan0
+2015/12/26 22:07:44 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:07:44 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:07:44 Configuration has been saved successfully to the conf file.
+2015/12/26 22:07:44 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:07:45 User requested download view.
+2015/12/26 22:07:45 User requested home view.
+2015/12/26 22:07:45 Getting the network interface.
+2015/12/26 22:07:45 Getting the local ip address from the network interface lo
+2015/12/26 22:07:45 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:07:45 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:07:45 Getting the local ip address from the network interface eth0
+2015/12/26 22:07:45 Getting the local ip address from the network interface wlan0
+2015/12/26 22:07:45 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:07:45 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:07:45 Configuration has been saved successfully to the conf file.
+2015/12/26 22:07:45 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:08:04 User requested home view.
+2015/12/26 22:08:04 Getting the network interface.
+2015/12/26 22:08:04 Getting the local ip address from the network interface lo
+2015/12/26 22:08:04 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:08:04 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:08:04 Getting the local ip address from the network interface eth0
+2015/12/26 22:08:04 Getting the local ip address from the network interface wlan0
+2015/12/26 22:08:04 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:08:04 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:08:04 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:04 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:08:25 User requested home view.
+2015/12/26 22:08:25 Getting the network interface.
+2015/12/26 22:08:25 Getting the local ip address from the network interface lo
+2015/12/26 22:08:25 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:08:25 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:08:25 Getting the local ip address from the network interface eth0
+2015/12/26 22:08:25 Getting the local ip address from the network interface wlan0
+2015/12/26 22:08:25 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:08:25 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:08:25 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:25 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:08:25 User requested home view.
+2015/12/26 22:08:25 Getting the network interface.
+2015/12/26 22:08:25 Getting the local ip address from the network interface lo
+2015/12/26 22:08:25 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:08:25 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:08:25 Getting the local ip address from the network interface eth0
+2015/12/26 22:08:25 Getting the local ip address from the network interface wlan0
+2015/12/26 22:08:25 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:08:25 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:08:25 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:25 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:08:28 User requested upload view.
+2015/12/26 22:08:28 User requested home view.
+2015/12/26 22:08:28 Getting the network interface.
+2015/12/26 22:08:28 Getting the local ip address from the network interface lo
+2015/12/26 22:08:28 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:08:28 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:08:28 Getting the local ip address from the network interface eth0
+2015/12/26 22:08:28 Getting the local ip address from the network interface wlan0
+2015/12/26 22:08:28 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:08:28 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:08:28 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:28 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:08:40 User requested upload view.
+2015/12/26 22:08:41 User requested home view.
+2015/12/26 22:08:41 Getting the network interface.
+2015/12/26 22:08:41 Getting the local ip address from the network interface lo
+2015/12/26 22:08:41 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:08:41 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:08:41 Getting the local ip address from the network interface eth0
+2015/12/26 22:08:41 Getting the local ip address from the network interface wlan0
+2015/12/26 22:08:41 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:08:41 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:08:41 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:41 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:08:57 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:57 Shortcode has been saved successfully to the conf file.
+2015/12/26 22:08:57 Updated the shortcode in conf file to 100002
+2015/12/26 22:08:57 User requested file upload.
+2015/12/26 22:08:57 Extracting the filenames from the form.
+2015/12/26 22:08:57 IMG-20151226-WA0007.jpg
+2015/12/26 22:08:57 Extracting the files from the form.
+2015/12/26 22:08:57 Successfully stored all the files into the folder ./resources/downloads/100002
+2015/12/26 22:08:57 Compressing the folder ./resources/downloads/100002
+2015/12/26 22:08:57 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100002.zip
+2015/12/26 22:08:57 QR code generated and saved to resources/downloads/lo_100002.png
+2015/12/26 22:08:57 QR code generated and saved to resources/downloads/wlan0_100002.png
+2015/12/26 22:08:58 User requested home view.
+2015/12/26 22:08:58 Getting the network interface.
+2015/12/26 22:08:58 Getting the local ip address from the network interface lo
+2015/12/26 22:08:58 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:08:58 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:08:58 Getting the local ip address from the network interface eth0
+2015/12/26 22:08:58 Getting the local ip address from the network interface wlan0
+2015/12/26 22:08:58 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:08:58 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:08:58 Configuration has been saved successfully to the conf file.
+2015/12/26 22:08:58 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:09:08 User requested download view.
+2015/12/26 22:09:09 User requested home view.
+2015/12/26 22:09:09 Getting the network interface.
+2015/12/26 22:09:09 Getting the local ip address from the network interface lo
+2015/12/26 22:09:09 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:09:09 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:09:09 Getting the local ip address from the network interface eth0
+2015/12/26 22:09:09 Getting the local ip address from the network interface wlan0
+2015/12/26 22:09:09 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:09:09 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:09:09 Configuration has been saved successfully to the conf file.
+2015/12/26 22:09:09 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:09:17 User requested download view.
+2015/12/26 22:09:23 User requested file download.
+2015/12/26 22:09:23 User requested the file with shortcode 100002.
+2015/12/26 22:09:23 Files in the directory ./resources/downloads
+2015/12/26 22:09:23 100001.zip
+2015/12/26 22:09:23 100002.zip
+2015/12/26 22:09:23 Requested file shortcode 100002 has found a match.
+2015/12/26 22:09:23 lo_100001.png
+2015/12/26 22:09:23 lo_100002.png
+2015/12/26 22:09:23 wlan0_100001.png
+2015/12/26 22:09:23 wlan0_100002.png
+2015/12/26 22:09:24 User requested download view.
+2015/12/26 22:10:12 The application has started.
+2015/12/26 22:10:13 User requested home view.
+2015/12/26 22:10:13 Getting the network interface.
+2015/12/26 22:10:13 Getting the local ip address from the network interface lo
+2015/12/26 22:10:13 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:10:13 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:10:13 Getting the local ip address from the network interface eth0
+2015/12/26 22:10:13 Getting the local ip address from the network interface wlan0
+2015/12/26 22:10:13 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:10:13 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:10:13 Configuration has been saved successfully to the conf file.
+2015/12/26 22:10:13 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:11:35 User requested home view.
+2015/12/26 22:11:35 Getting the network interface.
+2015/12/26 22:11:35 Getting the local ip address from the network interface lo
+2015/12/26 22:11:35 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:11:35 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:11:35 Getting the local ip address from the network interface eth0
+2015/12/26 22:11:35 Getting the local ip address from the network interface wlan0
+2015/12/26 22:11:35 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:11:35 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:11:35 Configuration has been saved successfully to the conf file.
+2015/12/26 22:11:35 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:11:40 User requested home view.
+2015/12/26 22:11:40 Getting the network interface.
+2015/12/26 22:11:40 Getting the local ip address from the network interface lo
+2015/12/26 22:11:40 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:11:40 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:11:40 Getting the local ip address from the network interface eth0
+2015/12/26 22:11:40 Getting the local ip address from the network interface wlan0
+2015/12/26 22:11:40 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:11:40 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:11:40 Configuration has been saved successfully to the conf file.
+2015/12/26 22:11:40 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:11:41 User requested home view.
+2015/12/26 22:11:41 Getting the network interface.
+2015/12/26 22:11:41 Getting the local ip address from the network interface lo
+2015/12/26 22:11:41 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:11:41 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:11:41 Getting the local ip address from the network interface eth0
+2015/12/26 22:11:41 Getting the local ip address from the network interface wlan0
+2015/12/26 22:11:41 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:11:41 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:11:41 Configuration has been saved successfully to the conf file.
+2015/12/26 22:11:41 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:06 User requested home view.
+2015/12/26 22:12:06 Getting the network interface.
+2015/12/26 22:12:06 Getting the local ip address from the network interface lo
+2015/12/26 22:12:06 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:12:06 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:12:06 Getting the local ip address from the network interface eth0
+2015/12/26 22:12:06 Getting the local ip address from the network interface wlan0
+2015/12/26 22:12:06 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:12:06 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:12:06 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:06 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:07 User requested home view.
+2015/12/26 22:12:07 Getting the network interface.
+2015/12/26 22:12:07 Getting the local ip address from the network interface lo
+2015/12/26 22:12:07 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:12:07 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:12:07 Getting the local ip address from the network interface eth0
+2015/12/26 22:12:07 Getting the local ip address from the network interface wlan0
+2015/12/26 22:12:07 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:12:07 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:12:07 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:07 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:09 User requested upload view.
+2015/12/26 22:12:09 User requested home view.
+2015/12/26 22:12:09 Getting the network interface.
+2015/12/26 22:12:09 Getting the local ip address from the network interface lo
+2015/12/26 22:12:09 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:12:09 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:12:09 Getting the local ip address from the network interface eth0
+2015/12/26 22:12:09 Getting the local ip address from the network interface wlan0
+2015/12/26 22:12:09 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:12:09 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:12:09 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:09 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:29 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:29 Shortcode has been saved successfully to the conf file.
+2015/12/26 22:12:29 Updated the shortcode in conf file to 100001
+2015/12/26 22:12:29 User requested file upload.
+2015/12/26 22:12:29 Extracting the filenames from the form.
+2015/12/26 22:12:29 IMG-20151226-WA0009.jpg
+2015/12/26 22:12:29 Extracting the files from the form.
+2015/12/26 22:12:29 Successfully stored all the files into the folder ./resources/downloads/100001
+2015/12/26 22:12:29 Compressing the folder ./resources/downloads/100001
+2015/12/26 22:12:29 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100001.zip
+2015/12/26 22:12:29 QR code generated and saved to resources/downloads/lo_100001.png
+2015/12/26 22:12:29 QR code generated and saved to resources/downloads/wlan0_100001.png
+2015/12/26 22:12:29 User requested home view.
+2015/12/26 22:12:29 Getting the network interface.
+2015/12/26 22:12:29 Getting the local ip address from the network interface lo
+2015/12/26 22:12:29 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:12:29 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:12:29 Getting the local ip address from the network interface eth0
+2015/12/26 22:12:29 Getting the local ip address from the network interface wlan0
+2015/12/26 22:12:29 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:12:29 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:12:29 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:29 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:37 User requested download view.
+2015/12/26 22:12:38 User requested home view.
+2015/12/26 22:12:38 Getting the network interface.
+2015/12/26 22:12:38 Getting the local ip address from the network interface lo
+2015/12/26 22:12:38 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:12:38 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:12:38 Getting the local ip address from the network interface eth0
+2015/12/26 22:12:38 Getting the local ip address from the network interface wlan0
+2015/12/26 22:12:38 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:12:38 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:12:38 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:38 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:38 User requested home view.
+2015/12/26 22:12:38 Getting the network interface.
+2015/12/26 22:12:38 Getting the local ip address from the network interface lo
+2015/12/26 22:12:38 ip address of the network interface lo is 127.0.0.1
+2015/12/26 22:12:38 QR code generated and saved to resources/images/lo.png
+2015/12/26 22:12:38 Getting the local ip address from the network interface eth0
+2015/12/26 22:12:38 Getting the local ip address from the network interface wlan0
+2015/12/26 22:12:38 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/26 22:12:38 QR code generated and saved to resources/images/wlan0.png
+2015/12/26 22:12:38 Configuration has been saved successfully to the conf file.
+2015/12/26 22:12:38 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/26 22:12:43 User requested file download.
+2015/12/26 22:12:43 User requested the file with shortcode 100001.
+2015/12/26 22:12:43 Files in the directory ./resources/downloads
+2015/12/26 22:12:43 100001.zip
+2015/12/26 22:12:43 Requested file shortcode 100001 has found a match.
+2015/12/26 22:12:43 lo_100001.png
+2015/12/26 22:12:43 wlan0_100001.png
+2015/12/26 22:12:44 User requested download view.

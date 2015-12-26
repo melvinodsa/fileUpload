@@ -1,0 +1,59 @@
+{{ define "content" }}
+<form class="form" enctype="multipart/form-data" method="post" action="upload">
+  <h1 class="form-heading">Add the files</h1>
+  <div class="files">
+    <div>
+      <input class="form-control" type="file" onchange="fileChanged(this);" name="uploadFile">
+      <input style="display:none" class="filename" name="filename">
+      <input type="button" class="btn-info addbut" onclick="addFile(this);" value="Add more">
+      <input type="button" class="btn-warning addbut" onclick="removeFile(this)" value="Remove"><br>
+    </div>
+  </div><br>
+  <input class="btn-success form-control" type="submit" value="Upload">
+</form>
+<img id="qr-code"></img>
+<h1 class="form-heading">{{.}}</h1>
+<script>
+$(document).ready(new function(){
+  $('#uploadNav').addClass("active");
+});
+
+var FILEUPLOAD = '<input class="form-control" type="file" '+
+                  'onchange="fileChanged(this);" name="uploadFile">'+
+                  '<input style="display:none" class="filename" name="filename">'+
+                  '<input type="button" class="btn-info addbut" '+
+                  'onclick="addFile(this);" value="Add more">'+
+                  '<input type="button" class="btn-warning addbut" '+
+                  'onclick="removeFile(this)" value="Remove"><br>';
+
+//Function to set the filename seperately
+function fileChanged(element) {
+  var x = element.value;
+  x = x.replace(/([*+?^=!:${}()|\[\]\/\\])/g, "/");
+  element.parentNode.getElementsByClassName('filename')[0].value = x.substr(x.lastIndexOf('/')+1);
+}
+
+function addFile(element) {
+  var dumpdiv = document.createElement('div');
+  dumpdiv.innerHTML = FILEUPLOAD;
+  document.getElementsByClassName('files')[0].appendChild(dumpdiv);
+  element.outerHTML = "";
+}
+
+function removeFile(element) {
+  if(element.parentElement.parentElement.children.length > 1) {
+    if(element.parentElement.getElementsByClassName('addbut').length > 1) {
+      var addButton = document.createElement('input');
+      addButton.setAttribute('type', 'button');
+      addButton.setAttribute('class', 'btn-info addbut');
+      addButton.setAttribute('onclick', 'addFile(this);');
+      addButton.setAttribute('value', 'Add more');
+      element.parentElement.previousElementSibling.insertBefore(addButton, element.parentElement.previousElementSibling.getElementsByClassName('addbut')[0]);
+    }
+    element.parentElement.outerHTML = "";
+  }
+}
+
+</script>
+
+{{ end }}

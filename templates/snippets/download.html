@@ -1,0 +1,15 @@
+{{ define "content" }}
+<form class="form" method="post" action="download">
+<h1 class="form-heading">Enter the code</h1>
+<input class="form-control" id="code" name="downloadCode" placeholder="shortcode"><br>
+<input class="btn-success form-control" type="submit" value="Download">
+</form>
+<img id="qr-code"></img>
+<h1 class="form-heading">{{.}}</h1>
+<script>
+$(document).ready(new function(){
+  $('#downloadNav').addClass("active");
+});
+</script>
+
+{{ end }}

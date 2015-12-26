@@ -1,0 +1,23 @@
+{{ define "content" }}
+<form class="form">
+  <select class="form-control" id="ipaddresses" onchange="showAddress(this);">
+    {{ range . }}
+    <option value='{{ .IPAddr }}'>{{ .NWInterface }}</option>
+    {{ end }}
+  </select>
+<input disabled class="form-control" id="addr">
+</form>
+<img id="qr-code"></img>
+<script>
+function showAddress(element) {
+  document.getElementById('addr').value = element.value;
+  document.getElementById('qr-code').src = "resources/images/"+
+                  element.options[element.selectedIndex].innerHTML+".png";
+}
+$(document).ready(new function(){
+  showAddress(document.getElementById('ipaddresses'));
+  $('#homeNav').addClass("active");
+});
+</script>
+
+{{ end }}
