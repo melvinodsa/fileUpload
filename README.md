@@ -1,7 +1,7 @@
 # fileUpload
 An app for file transfer for web and desktop.
 
-**fileUpload** is web and desktop based app file transfer between and devices that has a web browser and access to the network where app is hosted. **Do not require any internet connection**
+**fileUpload** is web and desktop based app file transfer between and devices that has a web browser and access to the network where app is hosted. **The app do not require any internet connection to work.**
 
 To get the
 ```
