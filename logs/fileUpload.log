@@ -804,3 +804,37 @@
 2015/12/26 22:12:43 lo_100001.png
 2015/12/26 22:12:43 wlan0_100001.png
 2015/12/26 22:12:44 User requested download view.
+2015/12/27 12:04:40 The application has started.
+2015/12/27 12:04:44 User requested home view.
+2015/12/27 12:04:44 Getting the network interface.
+2015/12/27 12:04:44 Getting the local ip address from the network interface lo
+2015/12/27 12:04:44 ip address of the network interface lo is 127.0.0.1
+2015/12/27 12:04:44 QR code generated and saved to resources/images/lo.png
+2015/12/27 12:04:44 Getting the local ip address from the network interface eth0
+2015/12/27 12:04:44 Getting the local ip address from the network interface wlan0
+2015/12/27 12:04:44 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/27 12:04:44 QR code generated and saved to resources/images/wlan0.png
+2015/12/27 12:04:44 Configuration has been saved successfully to the conf file.
+2015/12/27 12:04:44 IPDetailsConfig has been saved successfully to the conf file.
+2015/12/27 12:04:51 User requested upload view.
+2015/12/27 12:04:58 Configuration has been saved successfully to the conf file.
+2015/12/27 12:04:58 Shortcode has been saved successfully to the conf file.
+2015/12/27 12:04:58 Updated the shortcode in conf file to 100001
+2015/12/27 12:04:58 User requested file upload.
+2015/12/27 12:04:58 Extracting the filenames from the form.
+2015/12/27 12:04:58 IMG_20151224_204942.jpg
+2015/12/27 12:04:58 Extracting the files from the form.
+2015/12/27 12:04:58 Successfully stored all the files into the folder ./resources/downloads/100001
+2015/12/27 12:04:58 Compressing the folder ./resources/downloads/100001
+2015/12/27 12:04:58 Successfully compressed the folder and the uploaded files are available at ./resources/downloads/100001.zip
+2015/12/27 12:04:58 QR code generated and saved to resources/downloads/lo_100001.png
+2015/12/27 12:04:58 QR code generated and saved to resources/downloads/wlan0_100001.png
+2015/12/27 12:05:01 User requested download view.
+2015/12/27 12:05:07 User requested file download.
+2015/12/27 12:05:07 User requested the file with shortcode 100001.
+2015/12/27 12:05:07 Files in the directory ./resources/downloads
+2015/12/27 12:05:07 100001.zip
+2015/12/27 12:05:07 Requested file shortcode 100001 has found a match.
+2015/12/27 12:05:07 lo_100001.png
+2015/12/27 12:05:07 wlan0_100001.png
+2015/12/27 12:05:08 User requested download view.

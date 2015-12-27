@@ -34,14 +34,13 @@ func Download(w http.ResponseWriter, r *http.Request) {
 	files, err := ioutil.ReadDir("./resources/downloads")
 	if err != nil {
 		log.Fatal("Error while listing the downloads directory ./resources/downloads.", err)
-	} else {
-		log.Println("Files in the directory ./resources/downloads")
-		for _, f := range files {
-			log.Println(f.Name())
-			if download.DownloadCode+".zip" == f.Name() {
-				log.Println("Requested file shortcode", download.DownloadCode, "has found a match.")
-				flag = true
-			}
+	}
+	log.Println("Files in the directory ./resources/downloads")
+	for _, f := range files {
+		log.Println(f.Name())
+		if download.DownloadCode+".zip" == f.Name() {
+			log.Println("Requested file shortcode", download.DownloadCode, "has found a match.")
+			flag = true
 		}
 	}
 	if flag {

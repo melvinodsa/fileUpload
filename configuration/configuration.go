@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"code.google.com/p/rsc/qr"
+	"github.com/melvinodsa/rsc/qr"
 )
 
 //DownloadDetails structure for storing download file details.
