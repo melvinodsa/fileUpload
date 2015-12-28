@@ -1051,3 +1051,15 @@
 2015/12/28 20:16:00 The application has started.
 2015/12/28 20:17:02 The application has started.
 2015/12/28 20:21:53 The application has started.
+2015/12/28 23:09:22 The application has started.
+2015/12/28 23:09:25 User requested home view.
+2015/12/28 23:09:25 Getting the network interface.
+2015/12/28 23:09:25 Getting the local ip address from the network interface lo
+2015/12/28 23:09:25 ip address of the network interface lo is 127.0.0.1
+2015/12/28 23:09:25 QR code generated and saved to resources/images/lo.png
+2015/12/28 23:09:25 Getting the local ip address from the network interface eth0
+2015/12/28 23:09:25 Getting the local ip address from the network interface wlan0
+2015/12/28 23:09:25 ip address of the network interface wlan0 is 192.168.0.105
+2015/12/28 23:09:25 QR code generated and saved to resources/images/wlan0.png
+2015/12/28 23:09:25 Configuration has been saved successfully to the conf file.
+2015/12/28 23:09:25 IPDetailsConfig has been saved successfully to the conf file.

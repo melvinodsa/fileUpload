@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/melvinodsa/rsc/qr"
+	"github.com/melvinodsa/fileUpload/modules/qr"
 )
 
 //DownloadDetails structure for storing download file details.
