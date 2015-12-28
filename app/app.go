@@ -8,15 +8,15 @@ import (
 	"github.com/miketheprogrammer/go-thrust/thrust"
 )
 
-//StartgGITui starts the GUI of the application for the front end.
-func StartgGITui() {
+//StartFileUpload starts the GUI of the application for the front end.
+func StartFileUpload(url string) {
 
 	thrust.InitLogger()
 	// thrust.Start() must always come before any bindings are created.
 	thrust.Start()
 
 	thrustWindow := thrust.NewWindow(thrust.WindowOptions{
-		RootUrl: "http://localhost:9090",
+		RootUrl: url,
 	})
 	thrustWindow.Show()
 	thrustWindow.Maximize()

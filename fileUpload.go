@@ -38,7 +38,8 @@ func main() {
 	if err := configuration.SaveShortCode(100000); nil != err {
 		log.Fatal("Error in intializing the shortcode to 100000.", err)
 	} else {
-		go app.StartgGITui()
+		//Comment this line to prevent app from starting...
+		go app.StartFileUpload("http://localhost:9090")
 		f, err := os.OpenFile("./logs/fileUpload.log", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 		if err != nil {
 			log.Fatal("error opening log file: ", err)
