@@ -29,9 +29,13 @@ func Home(w http.ResponseWriter, r *http.Request) {
 			var ip net.IP
 			switch v := addrs[0].(type) {
 			case *net.IPNet:
-				ip = v.IP
+				if v.IP.To4() != nil {
+					ip = v.IP
+				}
 			case *net.IPAddr:
-				ip = v.IP
+				if v.IP.To4() != nil {
+					ip = v.IP
+				}
 			}
 			log.Println("ip address of the network interface", i.Name, "is", ip)
 			ips = append(ips, configuration.IPDetails{IPAddr: "http://" + ip.String() + ":9090", NWInterface: i.Name})

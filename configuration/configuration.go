@@ -8,6 +8,7 @@ import (
 	"image"
 	"image/png"
 	"io"
+	"io/ioutil"
 	"log"
 	"mime/multipart"
 	"os"
@@ -96,6 +97,19 @@ func SaveIPDetailsConfig(iPDetailsConfig []IPDetails) error {
 
 //CacheConfiguration method will cache the configuration file contents.
 func CacheConfiguration() {
+	os.Remove("conf.json")
+	// open output file
+	fo, err := os.Create("conf.json")
+	if err != nil {
+		panic(err)
+	}
+	// close fo on exit and check for its returned error
+	defer func() {
+		if err := fo.Close(); err != nil {
+			panic(err)
+		}
+	}()
+	err = ioutil.WriteFile("conf.json", []byte("{\n}"), 0644)
 	os.RemoveAll("./resources/downloads")
 	if err := os.Mkdir("./resources/downloads", 0777); nil != err {
 		log.Fatal("Error in creating the folder ./resources/downloads.", err)
