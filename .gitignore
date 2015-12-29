@@ -1,0 +1,6 @@
+#Ignore the log files
+*.log
+./resources/downloads
+./system_session
+conf.json
+./resources/images/*.png
