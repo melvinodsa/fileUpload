@@ -2,10 +2,12 @@ package app
 
 import (
 	"fmt"
+	"log"
+	"os"
 
-	"github.com/miketheprogrammer/go-thrust/lib/commands"
-	"github.com/miketheprogrammer/go-thrust/lib/connection"
-	"github.com/miketheprogrammer/go-thrust/thrust"
+	"github.com/melvinodsa/go-thrust/lib/commands"
+	"github.com/melvinodsa/go-thrust/lib/connection"
+	"github.com/melvinodsa/go-thrust/thrust"
 )
 
 //StartFileUpload starts the GUI of the application for the front end.
@@ -13,7 +15,12 @@ func StartFileUpload(url string) {
 
 	thrust.InitLogger()
 	// thrust.Start() must always come before any bindings are created.
-	thrust.Start()
+	dir, err := os.Getwd()
+	if err != nil {
+		log.Fatal("Error in getting the current directory.", err)
+	}
+	log.Println("Current directory is", dir)
+	thrust.Start(dir)
 
 	thrustWindow := thrust.NewWindow(thrust.WindowOptions{
 		RootUrl: url,

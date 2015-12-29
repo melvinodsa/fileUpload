@@ -4,3 +4,8 @@ resources/downloads
 system_session
 conf.json
 resources/images/*.png
+fileUpload
+vendor
+*.zip
+build
+*.exe
