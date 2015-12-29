@@ -101,18 +101,22 @@ func CacheConfiguration() {
 	// open output file
 	fo, err := os.Create("conf.json")
 	if err != nil {
-		panic(err)
+		log.Fatal("Error while creating conf.json file.")
 	}
 	// close fo on exit and check for its returned error
 	defer func() {
 		if err := fo.Close(); err != nil {
-			panic(err)
+			log.Fatal("Error in closing the conf.json file.")
 		}
 	}()
 	err = ioutil.WriteFile("conf.json", []byte("{\n}"), 0644)
 	os.RemoveAll("./resources/downloads")
 	if err := os.Mkdir("./resources/downloads", 0777); nil != err {
 		log.Fatal("Error in creating the folder ./resources/downloads.", err)
+	}
+	os.RemoveAll("./logs")
+	if err := os.Mkdir("./logs", 0777); nil != err {
+		log.Fatal("Error in creating the folder ./logs.", err)
 	}
 	file, err := os.Open("conf.json")
 	if err != nil {
